@@ -1,2 +1,2 @@
 # Big-Decimal-Int
-A fully OOP Code, including classes, through which you can use the size of any number without the protocols of the C++ standard language...
+C++ type (class) that can hold unlimited decimal integer values and performs arithmetic operations on them.
